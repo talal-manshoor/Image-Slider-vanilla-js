@@ -17,6 +17,7 @@ body{
 }
 .images{
     display: flex;
+    transition: transform 0.3s ease-in-out;
 }
 .cntrl{
     position: absolute;
